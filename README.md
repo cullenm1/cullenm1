@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- ⚽I am a student athlete at Seattle Pacific University
+- ✏️I am studying Business Finance and Data Analytics 
 <!--
 **cullenm1/cullenm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
